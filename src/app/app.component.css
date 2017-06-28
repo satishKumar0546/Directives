@@ -1,0 +1,11 @@
+.border{
+  border : 3px solid grey;
+}
+.baackground{
+  background-color: green;
+}
+
+div{
+  height:100px;
+  width: 100px;
+}
